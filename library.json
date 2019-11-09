@@ -1,0 +1,21 @@
+{
+  "name": "XT_DAC_Audio",
+  "version": "4.2.1",
+  "keywords": "DAC, ESP32, audio, sound, gamesounds",
+  "description": "A sound library for using the ESP32's built in DAC: https://www.xtronical.com/category/basics/audio/",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/WeekendWarrior1/XTronical_XT_DAC_Audio_Mirror"
+  },
+  "authors":
+  [
+    {
+        "name": "XTronical",
+        "email": "XTronical@xtronical.com",
+        "maintainer": true
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
