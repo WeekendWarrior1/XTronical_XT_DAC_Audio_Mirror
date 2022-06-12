@@ -20,6 +20,7 @@
 // No responsibility is taken for this. Stick with the version that works for you, if you need newer commands from later versions
 // you may have to alter your original code
 
+#include "soc/rtc_io_reg.h" // https://github.com/WeekendWarrior1/XTronical_XT_DAC_Audio_Mirror/issues/1#issuecomment-1152424853
 #include "esp32-hal-timer.h"
 #include "XT_DAC_Audio.h"
 #include "HardwareSerial.h"
